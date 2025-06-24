@@ -1,6 +1,12 @@
 # LCD 16x2 with I2C
 This is a simple example of how to use an LCD 16x2 with an I2C bus.
 
+## Requirements
+- An LCD 16x2 with I2C interface
+- An I2C bus (e.g., Raspberry Pi, Arduino, etc.)
+- Arduino IDE with the LiquidCrystal_I2C library installed
+
+
 ## Connections
 | LCD Pin | I2C Pin   |
 |---------|-----------|
