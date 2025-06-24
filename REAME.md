@@ -2,12 +2,12 @@
 This is a simple example of how to use an LCD 16x2 with an I2C bus.
 
 ## Connections
-| LCD Pin | I2C Pin |
-|---------|---------|
-| VCC     | 5V      |
-| GND     | GND     |
-| SDA     | SDA     |
-| SCL     | SCL     |
+| LCD Pin | I2C Pin   |
+|---------|-----------|
+| VCC     | 5V / 3.3V |
+| GND     | GND       |
+| SDA     | SDA       |
+| SCL     | SCL       |
 
 ## Notes
 The I2C address of the LCD may vary.  
